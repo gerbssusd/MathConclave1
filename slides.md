@@ -111,7 +111,7 @@ class: scroll-box
       <tr>
         <td>L. Interpret functions that arise in applications in terms of a context</td>
         <td>1,2</td>
-        <td> rowspan="3">2</td>
+        <td rowspan="3">2</td>
       </tr>
       <tr>
         <td>M. Analyze functions using different representations</td>
@@ -127,6 +127,7 @@ class: scroll-box
 ---
 layout: end
 ---
+
 
 
 
