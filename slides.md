@@ -146,91 +146,6 @@ class: scroll-box
         <td>1,2</td>
         <td>0-1</td>
       </tr>
-      <tr>
-        <td rowspan="7">2. Problem Solving<br>4. Modeling & Data Analysis</td>
-        <td rowspan="4">Problem Solving<br>(drawn across content domains)</td>
-        <td>A. Apply mathematics to solve well-posed problems arising in everyday life, society, and the workplace.</td>
-        <td>2, 3</td>
-        <td>0–1</td>
-        <td>1–2</td>
-        <td>5–7</td>
-      </tr>
-      <tr>
-        <td>B. Select and use appropriate tools strategically.</td>
-        <td>1, 2, 3</td>
-        <td>0–1</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>C. Interpret results in the context of a situation.</td>
-        <td>1, 2, 3</td>
-        <td>0–1</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>D. Identify important quantities and map their relationships (e.g., diagrams, tables, graphs, flow charts, formulas).</td>
-        <td>1, 2, 3</td>
-        <td>0–1</td>
-        <td></td>
-        <td></td>
-      </tr>
-  
-      <tr>
-        <td rowspan="3">Modeling & Data Analysis<br>(drawn across content domains)</td>
-        <td>A. Apply mathematics to solve problems arising in everyday life, society, and the workplace.<br>D. Interpret results in the context of a situation.</td>
-        <td>2, 3</td>
-        <td>0–1</td>
-        <td>1–3</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>B. Construct chains of reasoning to justify models; E. Analyze and improve existing models.</td>
-        <td>2, 3, 4</td>
-        <td>0–1</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>C. State logical assumptions; F. Identify important quantities and map relationships; G. Synthesize external resources.</td>
-        <td>1, 2, 3<br>(G = 3, 4)</td>
-        <td>0–1<br>(G = 0)</td>
-        <td></td>
-        <td></td>
-      </tr>
-  
-      <!-- Claim 3 -->
-      <tr>
-        <td rowspan="4">3. Communicating Reasoning</td>
-        <td rowspan="4">Communicating Reasoning<br>(drawn across content domains)</td>
-        <td>A. Test propositions or conjectures with examples.<br>D. Use case-based arguments.</td>
-        <td>2, 3</td>
-        <td>1–2</td>
-        <td>0–2</td>
-        <td>4–6</td>
-      </tr>
-      <tr>
-        <td>B. Construct chains of reasoning to justify or refute propositions.<br>E. Identify flawed reasoning and explain the flaw.</td>
-        <td>2, 3, 4</td>
-        <td>1–2</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>C. State logical assumptions being used.</td>
-        <td>2, 3</td>
-        <td>1</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>F. Base arguments on concrete referents.<br>G. Determine when an argument applies (later grades).</td>
-        <td>2, 3</td>
-        <td>1</td>
-        <td></td>
-        <td></td>
-      </tr>
     </tbody>
   </table>
   </div>
@@ -238,6 +153,7 @@ class: scroll-box
 ---
 layout: end
 ---
+
 
 
 
