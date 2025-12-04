@@ -47,7 +47,7 @@ Our Goals for this meeting:
           n2.3["ID Lesson for Next Meeting"]
           n2.2["ID Major PowerStandards"]
           n2.1["Examine Blueprints"]
-    end
+
       n2.1 --> n2.2
       n2.2 --> n2.3
 ```
@@ -59,6 +59,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
