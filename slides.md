@@ -122,7 +122,7 @@ class: scroll-box
         <td>2</td>
       </tr>
       <tr>
-        <td "rowspan=5">Supporting Cluster</td>
+        <td rowspan="5">Supporting Cluster</td>
         <td>O. Define trigonometric ratios and solve problems involving right triangles</td>
         <td>1,2</td>
         <td>0-2</td>
@@ -152,6 +152,7 @@ class: scroll-box
 ---
 layout: end
 ---
+
 
 
 
