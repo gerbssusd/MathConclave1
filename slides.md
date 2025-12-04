@@ -232,11 +232,12 @@ class: scroll-box
         <td></td>
       </tr>
     </tbody>
-  
+  </tabel>
   
 ---
 layout: end
 ---
+
 
 
 
