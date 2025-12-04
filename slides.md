@@ -52,13 +52,31 @@ Our Goals for this meeting:
       n2.2 --> n2.3
 ```
 ---
-layout: center
+class: scroll-box
 ---
 
+<div class="fancy-table-container">
+  <table class="fancy-table">
+    <thead>
+      <tr>
+        <th>claim</th>
+        <th>Content Category</th>
+        <th>Assessment Targets</th>
+        <th>DOK</th>
+        <th>Items</th>
+          <tr>
+            <th>CAT</th>
+            <th>PT</th>
+          </tr>
+        <th>Total Items</th>
+      </tr>
+    </thead>
+  
   
 ---
 layout: end
 ---
+
 
 
 
