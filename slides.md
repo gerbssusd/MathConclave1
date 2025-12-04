@@ -43,7 +43,7 @@ Our Goals for this meeting:
 ::right::
 
 ```mermaid {theme: redux, look: neo}
-  flowchart TB "Initial Meeting"
+  flowchart TB 
           n2.3["ID Lesson for Next Meeting"]
           n2.2["ID Major PowerStandards"]
           n2.1["Examine Blueprints"]
@@ -59,6 +59,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
