@@ -64,10 +64,8 @@ class: scroll-box
         <th>Assessment Targets</th>
         <th>DOK</th>
         <th>Items</th>
-          <tr>
             <th>CAT</th>
             <th>PT</th>
-          </tr>
         <th>Total Items</th>
       </tr>
     </thead>
@@ -76,6 +74,7 @@ class: scroll-box
 ---
 layout: end
 ---
+
 
 
 
