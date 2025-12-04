@@ -70,13 +70,13 @@ class: scroll-box
     </thead>
     <tbody>
       <tr>
-        <td rowspan="11">Concepts and Procedures</td>
+        <td rowspan="16">Concepts and Procedures</td>
         <td rowspan="11">Priority Cluster</td>
         <td>D. Interpret the stucture of expressions</td>
         <td>1,2</td>
         <td rowspan="2"> 1-2</td>
-        <td rowspan="4">0</td>
-        <td rowspan="4">11</td>
+        <td rowspan="16">0</td>
+        <td rowspan="16">11</td>
       <tr>
         <td>E. Write expresssions in equivalent forms to solve problems.</td>
         <td>1,2</td>
@@ -121,12 +121,38 @@ class: scroll-box
         <td>N. Build a function that models a relationship between two quantities.</td>
         <td>2</td>
       </tr>
+      <tr>
+        <td "rowspan=5">Supporting Cluster</td>
+        <td>O. Define trigonometric ratios and solve problems involving right triangles</td>
+        <td>1,2</td>
+        <td>0-2</td>
+      </tr>
+      <tr>
+        <td>P. Summarize represent, and interpret date on a single count or measurement variable.</td>
+        <td>2</td>
+        <td>0-2</td>
+      </tr>
+      <tr>
+        <td>A. Extend the properties of exponents to rational exponents.</td>
+        <td>1,2</td>
+        <td rowspan="2">0-1</td>
+      </tr> 
+      <tr>
+        <td>B. Use properties of rational and irrational numbers</td>
+        <td>1,2</td>
+      </tr>
+      <tr>
+        <td>C. Reason quantitatively and use units to solve problems.</td>
+        <td>1,2</td>
+        <td>0-1</td>
+      </tr> 
     </tbody>
   
   
 ---
 layout: end
 ---
+
 
 
 
