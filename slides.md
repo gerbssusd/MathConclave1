@@ -71,7 +71,7 @@ class: scroll-box
     <tbody>
       <tr>
         <td rowspan="4">Concepts and Procedures</td>
-        <td rowspan="3">Priority Cluster</td>
+        <td rowspan="4">Priority Cluster</td>
         <td>D. Interpret the stucture of expressions</td>
         <td>1,2</td>
         <td rowspan="2"> 1-2</td>
@@ -95,6 +95,7 @@ class: scroll-box
 ---
 layout: end
 ---
+
 
 
 
