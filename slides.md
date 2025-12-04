@@ -59,7 +59,7 @@ class: scroll-box
   <table class="fancy-table">
     <thead>
       <tr>
-        <th>claim</th>
+        <th>Claim</th>
         <th>Content Category</th>
         <th>Assessment Targets</th>
         <th>DOK</th>
@@ -70,8 +70,8 @@ class: scroll-box
     </thead>
     <tbody>
       <tr>
-        <td rowspan="4">Concepts and Procedures</td>
-        <td rowspan="4">Priority Cluster</td>
+        <td rowspan="11">Concepts and Procedures</td>
+        <td rowspan="11">Priority Cluster</td>
         <td>D. Interpret the stucture of expressions</td>
         <td>1,2</td>
         <td rowspan="2"> 1-2</td>
@@ -88,13 +88,46 @@ class: scroll-box
       </tr>
         <td>G. Create equations that describe numbers or relationships</td>
         <td>1,2</td>
+        <td rowspan="3">2</td>
+      </tr>
+      <tr>
+        <td>H. Understand solving equations as a process of reasoning and explain the reasoning</td>
+        <td>1,2</td>
+      </tr>
+      <tr>
+        <td>I. Solve equations and inequalities in one variable.</td>
+        <td>1,2></td>
+      </tr>
+      <tr>
+        <td>J. Represent and solve equations and einequalities graphically</td>
+        <td>1,2></td>
+        <td>0-2</td>
+      </tr>
+      <tr>
+        <td>K. Understand the concept of a function and use function notation</td>
+        <td>1,2></td>
+        <td>0-2</td>
+      </tr>
+      <tr>
+        <td>L. Interpret functions that arise in applications in terms of a context</td>
+        <td>1,2</td>
+        <td> rowspan="3">2</td>
+      </tr>
+      <tr>
+        <td>M. Analyze functions using different representations</td>
+        <td>1,2,3</td>
+      </tr>
+      <tr>
+        <td>N. Build a function that models a relationship between two quantities.</td>
         <td>2</td>
+      </tr>
     </tbody>
   
   
 ---
 layout: end
 ---
+
 
 
 
