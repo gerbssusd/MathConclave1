@@ -220,134 +220,72 @@ layout: center
 # Assessment Target Scatterplot  
 ### Total Items (X) • CAT Midpoint (Y) • PT Width → Size
 
-<v-chart
-  v-bind="{
-    '$schema': 'https://vega.github.io/schema/vega-lite/v5.json',
-    width: 800,
-    height: 600,
-    description: 'Scatterplot of Assessment Targets using Total Items midpoint (X) and CAT midpoint (Y)',
-    data: {
-      values: [
+<!-- Vega embed container -->
+<div id="vega-vis" style="width:900px; height:620px; margin: 0 auto;"></div>
 
+<!-- Load Vega / Vega-Lite / Vega-Embed from CDN -->
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+<script>
+  // Vega-Lite spec (keeps all assessment-target language exactly)
+  const spec = {
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 900,
+    "height": 620,
+    "description": "Scatterplot of Assessment Targets using Total Items midpoint (X) and CAT midpoint (Y)",
+    "data": {
+      "values": [
         {
-          label: 'A. Apply mathematics to solve well-posed problems arising in everyday life, society, and the workplace.',
-          claim: 'Problem Solving / Modeling (Claims 2 & 4)',
-          total_mid: 6,
-          cat_mid: 0.5,
-          pt_width: 2
+          "label": "A. Apply mathematics to solve well-posed problems arising in everyday life, society, and the workplace.",
+          "claim": "Problem Solving / Modeling (Claims 2 & 4)",
+          "total_mid": 6,
+          "cat_mid": 0.5,
+          "pt_width": 2
         },
         {
-          label: 'B. Select and use appropriate tools strategically.',
-          claim: 'Problem Solving / Modeling (Claims 2 & 4)',
-          total_mid: 0.5,
-          cat_mid: 0.5,
-          pt_width: 0
+          "label": "B. Select and use appropriate tools strategically.",
+          "claim": "Problem Solving / Modeling (Claims 2 & 4)",
+          "total_mid": 0.5,
+          "cat_mid": 0.5,
+          "pt_width": 0
         },
         {
-          label: 'C. Interpret results in the context of a situation.',
-          claim: 'Problem Solving / Modeling (Claims 2 & 4)',
-          total_mid: 0.5,
-          cat_mid: 0.5,
-          pt_width: 0
+          "label": "C. Interpret results in the context of a situation.",
+          "claim": "Problem Solving / Modeling (Claims 2 & 4)",
+          "total_mid": 0.5,
+          "cat_mid": 0.5,
+          "pt_width": 0
         },
         {
-          label: 'D. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas).',
-          claim: 'Problem Solving / Modeling (Claims 2 & 4)',
-          total_mid: 0.5,
-          cat_mid: 0.5,
-          pt_width: 0
+          "label": "D. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas).",
+          "claim": "Problem Solving / Modeling (Claims 2 & 4)",
+          "total_mid": 0.5,
+          "cat_mid": 0.5,
+          "pt_width": 0
         },
         {
-          label: 'A. Apply mathematics to solve problems arising in everyday life, society, and the workplace. D. Interpret results in the context of a situation.',
-          claim: 'Modeling and Data Analysis (Claims 2 & 4)',
-          total_mid: 2,
-          cat_mid: 0.5,
-          pt_width: 2
+          "label": "A. Apply mathematics to solve problems arising in everyday life, society, and the workplace. D. Interpret results in the context of a situation.",
+          "claim": "Modeling and Data Analysis (Claims 2 & 4)",
+          "total_mid": 2,
+          "cat_mid": 0.5,
+          "pt_width": 2
         },
         {
-          label: 'B. Construct, autonomously, chains of reasoning to justify mathematical models used, interpretations made, and solutions proposed for a complex problem. E. Analyze the adequacy of and make improvements to an existing model or develop a mathematical model of a real phenomenon.',
-          claim: 'Modeling and Data Analysis (Claims 2 & 4)',
-          total_mid: 0.5,
-          cat_mid: 0.5,
-          pt_width: 0
+          "label": "B. Construct, autonomously, chains of reasoning to justify mathematical models used, interpretations made, and solutions proposed for a complex problem. E. Analyze the adequacy of and make improvements to an existing model or develop a mathematical model of a real phenomenon.",
+          "claim": "Modeling and Data Analysis (Claims 2 & 4)",
+          "total_mid": 0.5,
+          "cat_mid": 0.5,
+          "pt_width": 0
         },
         {
-          label: 'C. State logical assumptions being used. F. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas). G. Identify, analyze, and synthesize relevant external resources to pose or solve problems.',
-          claim: 'Modeling and Data Analysis (Claims 2 & 4)',
-          total_mid: 0.5,
-          cat_mid: 0.5,
-          pt_width: 0
-        },
-        {
-          label: 'A. Test propositions or conjectures with specific examples. D. Use the technique of breaking an argument into cases.',
-          claim: 'Communicating Reasoning (Claim 3)',
-          total_mid: 5,
-          cat_mid: 1.5,
-          pt_width: 2
-        },
-        {
-          label: 'B. Construct, autonomously, chains of reasoning that will justify or refute propositions or conjectures. E. Distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in the argument—explain what it is.',
-          claim: 'Communicating Reasoning (Claim 3)',
-          total_mid: 5,
-          cat_mid: 1.5,
-          pt_width: 0
-        },
-        {
-          label: 'C. State logical assumptions being used.',
-          claim: 'Communicating Reasoning (Claim 3)',
-          total_mid: 5,
-          cat_mid: 1,
-          pt_width: 0
-        },
-        {
-          label: 'F. Base arguments on concrete referents such as objects, drawings, diagrams, and actions. G. At later grades, determine conditions under which an argument does and does not apply. (For example, area increases with perimeter for squares, but not for all plane figures.)',
-          claim: 'Communicating Reasoning (Claim 3)',
-          total_mid: 5,
-          cat_mid: 1,
-          pt_width: 0
-        }
-      ]
-    },
-    mark: {
-      type: 'circle',
-      tooltip: true
-    },
-    encoding: {
-      x: {
-        field: 'total_mid',
-        type: 'quantitative',
-        title: 'Total Items (Midpoint)'
-      },
-      y: {
-        field: 'cat_mid',
-        type: 'quantitative',
-        title: 'CAT Items (Midpoint)'
-      },
-      size: {
-        field: 'pt_width',
-        type: 'quantitative',
-        title: 'PT Range Width',
-        scale: { range: [50, 500] }
-      },
-      color: {
-        field: 'claim',
-        type: 'nominal',
-        title: 'Claim'
-      },
-      tooltip: [
-        { field: 'label', type: 'nominal', title: 'Assessment Target' },
-        { field: 'claim', type: 'nominal' },
-        { field: 'total_mid', type: 'quantitative' },
-        { field: 'cat_mid', type: 'quantitative' },
-        { field: 'pt_width', type: 'quantitative' }
-      ]
-    }
-  }"
-/>
+
 
 ---
 layout: end
 ---
+
 
 
 
