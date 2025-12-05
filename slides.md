@@ -38,7 +38,7 @@ Our Goals for this meeting:
 - Identify *power* standards
 - Pick a power standard to focus on next time
 
-(/v-click>
+(/v-clicks>
 
 ::right::
 
@@ -217,6 +217,7 @@ Which Assessment Targets are MOST used? What DOK level do they fall on? Should w
 ---
 layout: end
 ---
+
 
 
 
