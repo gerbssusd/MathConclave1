@@ -322,11 +322,12 @@ layout: center
       ]
     }
   }"
-></vega-lite>
+>
 
 ---
 layout: end
 ---
+
 
 
 
