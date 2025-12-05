@@ -183,7 +183,7 @@ class: scroll-box
         <td>0</td>
       </tr>
       <tr>
-        <td rowspan="3">3. Communicating Reasoning<<br>**at least 1 CAT item at DOK 3 or higher)/td>
+        <td rowspan="3">3. Communicating Reasoning<<br>**at least 1 CAT item at DOK 3 or higher)</td>
         <td rowspan="3">Communicating Reasoning (drawn across content domains)</td>
         <td>A. Test propositions or conjectures with specific examples.<br>D. Use the technique of breaking an argument into cases.</td>
         <td>2, 3</td>
@@ -208,6 +208,7 @@ class: scroll-box
 ---
 layout: end
 ---
+
 
 
 
