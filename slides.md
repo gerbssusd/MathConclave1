@@ -75,7 +75,7 @@ class: scroll-box
         <td rowspan="11">Priority Cluster</td>
         <td>D. Interpret the stucture of expressions</td>
         <td>1,2</td>
-        <td rowspan="2"> 1-2</td>
+        <td rowspan="2">1-2</td>
         <td rowspan="16">0</td>
         <td rowspan="16">11</td>
       </tr>
@@ -219,6 +219,7 @@ Which Assessment Targets are MOST used? What DOK level do they fall on? Should w
 ---
 layout: end
 ---
+
 
 
 
