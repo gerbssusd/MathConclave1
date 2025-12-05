@@ -147,70 +147,70 @@ class: scroll-box
         <td>0-1</td>
       </tr>
       <tr>
-        <td rowspan="7">2. Problem Solving<br>4. Modeling & Data Analysis</td>
-        <td rowspan="4">Problem Solving<br>(drawn across content domains)</td>
+        <td rowspan="7">2. Problem Solving 4. Modeling and Data Analysis</td>
+        <td rowspan="4">Problem Solving (drawn across content domains)</td>
         <td>A. Apply mathematics to solve well-posed problems arising in everyday life, society, and the workplace.</td>
         <td>2, 3</td>
-        <td>0–1</td>
+        <td>0-1</td>
         <td>1–2</td>
         <td>5–7</td>
       </tr>
       <tr>
         <td>B. Select and use appropriate tools strategically.</td>
         <td>1, 2, 3</td>
-        <td>0–1</td>
+        <td>0-1</td>
         <td></td>
         <td></td>
       </tr>
       <tr>
         <td>C. Interpret results in the context of a situation.</td>
         <td>1, 2, 3</td>
-        <td>0–1</td>
+        <td>0-1</td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>D. Identify important quantities and map their relationships (e.g., diagrams, tables, graphs, flow charts, formulas).</td>
+        <td>D. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas).</td>
         <td>1, 2, 3</td>
-        <td>0–1</td>
+        <td>0-1</td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td rowspan="3">Modeling & Data Analysis<br>(drawn across content domains)</td>
-        <td>A. Apply mathematics to solve problems arising in everyday life, society, and the workplace.<br>D. Interpret results in the context of a situation.</td>
+        <td rowspan="3">Modeling and Data Analysis (drawn across content domains)</td>
+        <td>A. Apply mathematics to solve problems arising in everyday life, society, and the workplace. D. Interpret results in the context of a situation.</td>
         <td>2, 3</td>
-        <td>0–1</td>
+        <td>0-1</td>
         <td>1–3</td>
         <td></td>
       </tr>
       <tr>
-        <td>B. Construct chains of reasoning to justify models; E. Analyze and improve existing models.</td>
+        <td>B. Construct, autonomously, chains of reasoning to justify mathematical models used, interpretations made, and solutions proposed for a complex problem. E. Analyze the adequacy of and make improvements to an existing model or develop a mathematical model of a real phenomenon.</td>
         <td>2, 3, 4</td>
-        <td>0–1</td>
+        <td>0-1</td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>C. State logical assumptions; F. Identify important quantities and map relationships; G. Synthesize external resources.</td>
-        <td>1, 2, 3<br>(G = 3, 4)</td>
-        <td>0–1<br>(G = 0)</td>
+        <td>C. State logical assumptions being used. F. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas). G. Identify, analyze, and synthesize relevant external resources to pose or solve problems.</td>
+        <td>1, 2, 3 (G: 3, 4)</td>
+        <td>0-1 (G: 0)</td>
         <td></td>
         <td></td>
       </tr>
       <tr>
         <td rowspan="4">3. Communicating Reasoning</td>
-        <td rowspan="4">Communicating Reasoning<br>(drawn across content domains)</td>
-        <td>A. Test propositions or conjectures with examples.<br>D. Use case-based arguments.</td>
+        <td rowspan="4">Communicating Reasoning (drawn across content domains)</td>
+        <td>A. Test propositions or conjectures with specific examples. D. Use the technique of breaking an argument into cases.</td>
         <td>2, 3</td>
-        <td>1–2</td>
-        <td>0–2</td>
-        <td>4–6</td>
+        <td>1-2</td>
+        <td>0-2</td>
+        <td>4-6</td>
       </tr>
       <tr>
-        <td>B. Construct chains of reasoning to justify or refute propositions.<br>E. Identify flawed reasoning and explain the flaw.</td>
+        <td>B. Construct, autonomously, chains of reasoning that will justify or refute propositions or conjectures. E. Distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in the argument—explain what it is.</td>
         <td>2, 3, 4</td>
-        <td>1–2</td>
+        <td>1-2</td>
         <td></td>
         <td></td>
       </tr>
@@ -222,7 +222,7 @@ class: scroll-box
         <td></td>
       </tr>
       <tr>
-        <td>F. Base arguments on concrete referents.<br>G. Determine when an argument applies (later grades).</td>
+        <td>F. Base arguments on concrete referents such as objects, drawings, diagrams, and actions. G. At later grades, determine conditions under which an argument does and does not apply. (For example, area increases with perimeter for squares, but not for all plane figures.)</td>
         <td>2, 3</td>
         <td>1</td>
         <td></td>
@@ -235,6 +235,7 @@ class: scroll-box
 ---
 layout: end
 ---
+
 
 
 
