@@ -222,9 +222,9 @@ layout: center
 ### Total Items (X) • CAT Midpoint (Y) • PT Width → Size
 
 <div id="vega-vis" style="width:900px; height:620px; margin: 0 auto;"></div>
-<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega@6"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@6"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@7"></script>
 <script>
   const spec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
@@ -357,6 +357,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
