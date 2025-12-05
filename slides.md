@@ -77,6 +77,7 @@ class: scroll-box
         <td rowspan="2"> 1-2</td>
         <td rowspan="16">0</td>
         <td rowspan="16">11</td>
+      </tr>
       <tr>
         <td>E. Write expresssions in equivalent forms to solve problems.</td>
         <td>1,2</td>
@@ -217,6 +218,7 @@ Which Assessment Targets are MOST used? What DOK level do they fall on? Should w
 ---
 layout: end
 ---
+
 
 
 
