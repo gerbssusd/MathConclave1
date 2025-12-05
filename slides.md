@@ -64,8 +64,8 @@ class: scroll-box
         <th>Content Category</th>
         <th>Assessment Targets</th>
         <th>DOK</th>
-            <th>CAT</th>
-            <th>PT</th>
+        <th>CAT</th>
+        <th>PT</th>
         <th>Total Items</th>
       </tr>
      </thead>
@@ -219,6 +219,7 @@ Which Assessment Targets are MOST used? What DOK level do they fall on? Should w
 ---
 layout: end
 ---
+
 
 
 
