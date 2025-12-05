@@ -207,8 +207,9 @@ class: scroll-box
 
 ---
 layout: image-right
-image: image.png
+image: /image.png
 ---
+
 ## Math Reasoning?
 
 Which Assessment Targets are MOST used? What DOK level do they fall on? Should we graph this?
@@ -216,6 +217,7 @@ Which Assessment Targets are MOST used? What DOK level do they fall on? Should w
 ---
 layout: end
 ---
+
 
 
 
