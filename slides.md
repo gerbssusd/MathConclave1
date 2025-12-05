@@ -51,6 +51,7 @@ Our Goals for this meeting:
       n2.1 --> n2.2
       n2.2 --> n2.3
 ```
+
 ---
 class: scroll-box
 ---
@@ -67,7 +68,7 @@ class: scroll-box
             <th>PT</th>
         <th>Total Items</th>
       </tr>
-    </thead>
+     </thead>
     <tbody>
       <tr>
         <td rowspan="16">Concepts and Procedures<br> **at least 4 CAT items at DOK 2 or higher</td>
@@ -218,6 +219,7 @@ Which Assessment Targets are MOST used? What DOK level do they fall on? Should w
 ---
 layout: end
 ---
+
 
 
 
