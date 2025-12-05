@@ -218,18 +218,14 @@ layout: center
 ---
 
 # Assessment Target Scatterplot  
+
 ### Total Items (X) • CAT Midpoint (Y) • PT Width → Size
 
-<!-- Vega embed container -->
 <div id="vega-vis" style="width:900px; height:620px; margin: 0 auto;"></div>
-
-<!-- Load Vega / Vega-Lite / Vega-Embed from CDN -->
 <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
 <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
 <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-
 <script>
-  // Vega-Lite spec (keeps all assessment-target language exactly)
   const spec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 900,
@@ -356,15 +352,12 @@ layout: center
       ]
     }
   };
-
-  // Render the chart into the div using vegaEmbed
-  // (if running inside an environment that blocks external scripts, ensure network access is allowed)
-  vegaEmbed('#vega-vis', spec, {actions: false}).catch(console.error);
 </script>
 
 ---
 layout: end
 ---
+
 
 
 
