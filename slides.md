@@ -180,7 +180,7 @@ class: scrollable
         <td>1, 2, 3 </td>
         <td>0-1</td>
       </tr>
-      <tr><
+      <tr>
         <td>G. Identify, analyze, and synthesize relevant external resources to pose or solve problems.</td>
         <td>3,4</td>
         <td>0</td>
@@ -220,6 +220,7 @@ Which Assessment Targets are MOST used? What DOK level do they fall on? Should w
 ---
 layout: end
 ---
+
 
 
 
