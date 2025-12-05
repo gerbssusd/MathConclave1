@@ -280,11 +280,92 @@ layout: center
           "pt_width": 0
         },
         {
+          "label": "C. State logical assumptions being used. F. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas). G. Identify, analyze, and synthesize relevant external resources to pose or solve problems.",
+          "claim": "Modeling and Data Analysis (Claims 2 & 4)",
+          "total_mid": 0.5,
+          "cat_mid": 0.5,
+          "pt_width": 0
+        },
+        {
+          "label": "A. Test propositions or conjectures with specific examples. D. Use the technique of breaking an argument into cases.",
+          "claim": "Communicating Reasoning (Claim 3)",
+          "total_mid": 5,
+          "cat_mid": 1.5,
+          "pt_width": 2
+        },
+        {
+          "label": "B. Construct, autonomously, chains of reasoning that will justify or refute propositions or conjectures. E. Distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in the argument—explain what it is.",
+          "claim": "Communicating Reasoning (Claim 3)",
+          "total_mid": 5,
+          "cat_mid": 1.5,
+          "pt_width": 0
+        },
+        {
+          "label": "C. State logical assumptions being used.",
+          "claim": "Communicating Reasoning (Claim 3)",
+          "total_mid": 5,
+          "cat_mid": 1,
+          "pt_width": 0
+        },
+        {
+          "label": "F. Base arguments on concrete referents such as objects, drawings, diagrams, and actions. G. At later grades, determine conditions under which an argument does and does not apply. (For example, area increases with perimeter for squares, but not for all plane figures.)",
+          "claim": "Communicating Reasoning (Claim 3)",
+          "total_mid": 5,
+          "cat_mid": 1,
+          "pt_width": 0
+        }
+      ]
+    },
+    "mark": {
+      "type": "point",
+      "filled": true,
+      "opacity": 0.9
+    },
+    "encoding": {
+      "x": {
+        "field": "total_mid",
+        "type": "quantitative",
+        "title": "Total Items (Midpoint)",
+        "axis": {"grid": true}
+      },
+      "y": {
+        "field": "cat_mid",
+        "type": "quantitative",
+        "title": "CAT Items (Midpoint)",
+        "axis": {"grid": true}
+      },
+      "size": {
+        "field": "pt_width",
+        "type": "quantitative",
+        "title": "PT Range Width",
+        "scale": {"range": [50, 500]},
+        "legend": {"orient": "right"}
+      },
+      "color": {
+        "field": "claim",
+        "type": "nominal",
+        "title": "Claim",
+        "legend": {"orient": "right"}
+      },
+      "tooltip": [
+        {"field": "label", "type": "nominal", "title": "Assessment Target"},
+        {"field": "claim", "type": "nominal", "title": "Claim"},
+        {"field": "total_mid", "type": "quantitative", "title": "Total Midpoint"},
+        {"field": "cat_mid", "type": "quantitative", "title": "CAT Midpoint"},
+        {"field": "pt_width", "type": "quantitative", "title": "PT Width"}
+      ]
+    }
+  };
 
+  // Render the chart into the div using vegaEmbed
+  // (if running inside an environment that blocks external scripts, ensure network access is allowed)
+  vegaEmbed('#vega-vis', spec, {actions: false}).catch(console.error);
+</script>
 
 ---
 layout: end
 ---
+
 
 
 
