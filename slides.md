@@ -53,7 +53,7 @@ Our Goals for this meeting:
 ```
 
 ---
-class: scroll-box
+class: scrollable
 ---
 
 <div class="fancy-table-container">
@@ -88,6 +88,7 @@ class: scroll-box
         <td>2</td>
         <td>0-1</td>
       </tr>
+      <tr>
         <td>G. Create equations that describe numbers or relationships</td>
         <td>1,2</td>
         <td rowspan="3">2</td>
@@ -219,6 +220,7 @@ Which Assessment Targets are MOST used? What DOK level do they fall on? Should w
 ---
 layout: end
 ---
+
 
 
 
