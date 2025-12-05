@@ -70,7 +70,7 @@ class: scroll-box
     </thead>
     <tbody>
       <tr>
-        <td rowspan="16">Concepts and Procedures</td>
+        <td rowspan="16">Concepts and Procedures<br> **at least 4 CAT items at DOK 2 or higher</td>
         <td rowspan="11">Priority Cluster</td>
         <td>D. Interpret the stucture of expressions</td>
         <td>1,2</td>
@@ -147,7 +147,7 @@ class: scroll-box
         <td>0-1</td>
       </tr>
       <tr>
-        <td rowspan="6">2. Problem Solving <br> 4. Modeling and Data Analysis</td>
+        <td rowspan="6">2. Problem Solving <br> 4. Modeling and Data Analysis<br>**at least 1 CAT item at DOK3 or higher (combined 2&4)</td>
         <td rowspan="2">Problem Solving (drawn across content domains)</td>
         <td>A. Apply mathematics to solve well-posed problems arising in everyday life, society, and the workplace.</td>
         <td>2, 3</td>
@@ -183,7 +183,7 @@ class: scroll-box
         <td>0</td>
       </tr>
       <tr>
-        <td rowspan="3">3. Communicating Reasoning</td>
+        <td rowspan="3">3. Communicating Reasoning<<br>**at least 1 CAT item at DOK 3 or higher)/td>
         <td rowspan="3">Communicating Reasoning (drawn across content domains)</td>
         <td>A. Test propositions or conjectures with specific examples.<br>D. Use the technique of breaking an argument into cases.</td>
         <td>2, 3</td>
@@ -208,6 +208,7 @@ class: scroll-box
 ---
 layout: end
 ---
+
 
 
 
