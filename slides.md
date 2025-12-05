@@ -147,86 +147,59 @@ class: scroll-box
         <td>0-1</td>
       </tr>
       <tr>
-        <td rowspan="7">2. Problem Solving 4. Modeling and Data Analysis</td>
-        <td rowspan="4">Problem Solving (drawn across content domains)</td>
+        <td rowspan="6">2. Problem Solving <br> 4. Modeling and Data Analysis</td>
+        <td rowspan="2">Problem Solving (drawn across content domains)</td>
         <td>A. Apply mathematics to solve well-posed problems arising in everyday life, society, and the workplace.</td>
         <td>2, 3</td>
         <td>0-1</td>
-        <td>1–2</td>
-        <td>5–7</td>
+        <td rowspan="2">1–2</td>
+        <td rowspan="6">5–7</td>
       </tr>
       <tr>
-        <td>B. Select and use appropriate tools strategically.</td>
+        <td>B. Select and use appropriate tools strategically.<br>C. Interpret results in the context of a situation.<br>D. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas).</td>
         <td>1, 2, 3</td>
         <td>0-1</td>
-        <td></td>
-        <td></td>
       </tr>
       <tr>
-        <td>C. Interpret results in the context of a situation.</td>
-        <td>1, 2, 3</td>
-        <td>0-1</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>D. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas).</td>
-        <td>1, 2, 3</td>
-        <td>0-1</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td rowspan="3">Modeling and Data Analysis (drawn across content domains)</td>
-        <td>A. Apply mathematics to solve problems arising in everyday life, society, and the workplace. D. Interpret results in the context of a situation.</td>
+        <td rowspan="4">Modeling and Data Analysis (drawn across content domains)</td>
+        <td>A. Apply mathematics to solve problems arising in everyday life, society, and the workplace.<br>D. Interpret results in the context of a situation.</td>
         <td>2, 3</td>
         <td>0-1</td>
-        <td>1–3</td>
-        <td></td>
+        <td rowspan="4">1–3</td>
       </tr>
       <tr>
-        <td>B. Construct, autonomously, chains of reasoning to justify mathematical models used, interpretations made, and solutions proposed for a complex problem. E. Analyze the adequacy of and make improvements to an existing model or develop a mathematical model of a real phenomenon.</td>
+        <td>B. Construct, autonomously, chains of reasoning to justify mathematical models used, interpretations made, and solutions proposed for a complex problem.<br>E. Analyze the adequacy of and make improvements to an existing model or develop a mathematical model of a real phenomenon.</td>
         <td>2, 3, 4</td>
         <td>0-1</td>
-        <td></td>
-        <td></td>
       </tr>
       <tr>
-        <td>C. State logical assumptions being used. F. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas). G. Identify, analyze, and synthesize relevant external resources to pose or solve problems.</td>
-        <td>1, 2, 3 (G: 3, 4)</td>
-        <td>0-1 (G: 0)</td>
-        <td></td>
-        <td></td>
+        <td>C. State logical assumptions being used.<br>F. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas).</td>
+        <td>1, 2, 3 </td>
+        <td>0-1</td>
+      </tr>
+      <tr><
+        <td>G. Identify, analyze, and synthesize relevant external resources to pose or solve problems.</td>
+        <td>3,4</td>
+        <td>0</td>
       </tr>
       <tr>
-        <td rowspan="4">3. Communicating Reasoning</td>
-        <td rowspan="4">Communicating Reasoning (drawn across content domains)</td>
-        <td>A. Test propositions or conjectures with specific examples. D. Use the technique of breaking an argument into cases.</td>
+        <td rowspan="3">3. Communicating Reasoning</td>
+        <td rowspan="3">Communicating Reasoning (drawn across content domains)</td>
+        <td>A. Test propositions or conjectures with specific examples.<br>D. Use the technique of breaking an argument into cases.</td>
         <td>2, 3</td>
         <td>1-2</td>
-        <td>0-2</td>
-        <td>4-6</td>
+        <td rowspan="3">0-2</td>
+        <td rowspan="3">4-6</td>
       </tr>
       <tr>
-        <td>B. Construct, autonomously, chains of reasoning that will justify or refute propositions or conjectures. E. Distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in the argument—explain what it is.</td>
+        <td>B. Construct, autonomously, chains of reasoning that will justify or refute propositions or conjectures.<br>E. Distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in the argument—explain what it is.</td>
         <td>2, 3, 4</td>
         <td>1-2</td>
-        <td></td>
-        <td></td>
       </tr>
       <tr>
-        <td>C. State logical assumptions being used.</td>
+        <td>C. State logical assumptions being used.<br>F. Base arguments on concrete referents such as objects, drawings, diagrams, and actions.<br>G. At later grades, determine conditions under which an argument does and does not apply. (For example, area increases with perimeter for squares, but not for all plane figures.)</td>
         <td>2, 3</td>
         <td>1</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>F. Base arguments on concrete referents such as objects, drawings, diagrams, and actions. G. At later grades, determine conditions under which an argument does and does not apply. (For example, area increases with perimeter for squares, but not for all plane figures.)</td>
-        <td>2, 3</td>
-        <td>1</td>
-        <td></td>
-        <td></td>
       </tr>
     </tbody>
   </table>
@@ -235,6 +208,7 @@ class: scroll-box
 ---
 layout: end
 ---
+
 
 
 
