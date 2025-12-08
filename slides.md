@@ -218,6 +218,8 @@ image: /image.png
 Which Assessment Targets are MOST used? What DOK level do they fall on? Should we graph this?
 
 ---
+class: scrollable
+---
 
 |Target|0-1|0-2|1|1-2|1-3|2|DOK|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -241,6 +243,7 @@ Which Assessment Targets are MOST used? What DOK level do they fall on? Should w
 ---
 layout: end
 ---
+
 
 
 
