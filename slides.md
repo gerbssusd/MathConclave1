@@ -218,12 +218,12 @@ image: /image.png
 Which Assessment Targets are MOST used? What DOK level do they fall on? Should we graph this?
 
 ---
-class: scrollable
+class: scrollable fancy-table
 ---
 # Concepts and Procedures
 
 |Target|0-1|0-2|1|1-2|1-3|2|DOK|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|:---|:---|:---|:---|:---|:---|:---|
 |1A. Extend the properties of exponents to rational exponents.|1||||||2|
 |1B. Use properties of rational and irrational numbers.|1||||||2|
 |1C. Reason quantitatively and use units to solve problems|1||||||2|
@@ -244,6 +244,7 @@ class: scrollable
 ---
 layout: end
 ---
+
 
 
 
