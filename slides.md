@@ -218,8 +218,28 @@ image: /image.png
 Which Assessment Targets are MOST used? What DOK level do they fall on? Should we graph this?
 
 ---
+Target|0-1|0-2|1|1-2|1-3|2|DOK
+1A. Extend the properties of exponents to rational exponents.|1||||||2
+1B. Use properties of rational and irrational numbers.|1||||||2
+1C. Reason quantitatively and use units to solve problems|1||||||2
+1D. Interpret the structure of expressions.||||1|||2
+1E. Write expressions in equivalent forms to solve problems.||||1|||2
+1F. Perform arithmetic operations on polynomials.|1||||||2
+1G. Create equations that describe numbers or relationships.||||||1|2
+1H. Understand solving equations as a process of reasoning and explain the reasoning.||||||1|2
+1I. Solve equations and inequalities in one variable.||||||1|2
+1J. Represent and solve equations and inequalities graphically.||1|||||2
+1K. Understand the concept of a function and use function notation.||1|||||2
+1L. Interpret functions that arise in applications in terms of a context.||||||1|2
+1M. Analyze functions using different representations.||||||1|3
+1N. Build a function that models a relationship between two quantities.||||||1|2
+1O. Define trigonometric ratios and solve problems involving right triangles.||1|||||2
+1P. Summarize, represent, and interpret data on a single count or measurement variable.||1|||||2
+
+---
 layout: end
 ---
+
 
 
 
