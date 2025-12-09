@@ -245,6 +245,8 @@ class: scrollable fancy-table
 class: fancy-table
 ---
 
+# 2. Problem Solving
+
 |Target|0-1|0-2|1|1-2|1-3|2|DOK|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2A. Apply mathematics to solve well-posed problems arising in everyday life, society, and the||1||||||1||||||3|
@@ -253,9 +255,42 @@ class: fancy-table
 |2D. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas).||1||||||1||||||3|
 
 ---
+class: scrollable fancy-table
+---
 
+# 4. Moldeling and Data Analysis
+
+|Target|0-1|0-2|1|1-2|1-3|2|DOK|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|4A. Apply mathematics to solve problems arising in everyday life, society, and the workplace.||1||||||||1||||3|
+|4D. Interpret results in the context of a situation.||1||||||||1||||3|
+|4B. Construct, autonomously, chains of reasoning to justify mathematical models used, interpretations||1||||||||1||||4|
+|made, and solutions proposed for a complex problem. made, and solutions proposed for a complex problem.||1||||||||1||||4|
+|4E. Analyze the adequacy of and make improvements to an existing model or develop a mathematical model of a real phenomenon. model of a real phenomenon.||1||||||||1||||4|
+|4C. State logical assumptions being used.||1||||||||1||||3|
+|4F. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas).||1||||||||1||||3|
+|4G. Identify, analyze, and synthesize relevant external resources to pose or solve problems. 3, 4 0||||||||||1||||4|
+
+---
+class: scrollable fancy-table
+---
+
+# 3. Communicating Reasoning
+
+|Target|0-1|0-2|1|1-2|1-3|2|DOK|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|3A. Test propositions or conjectures with specific examples.||||1||||1||||||3|
+|3D. Use the technique of breaking an argument into cases.||||1||||1||||||3|
+|3B. Construct, autonomously, chains of reasoning that will justify or refute propositions or conjectures.||||1||||1||||||4|
+|3E. Distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in the argument—explain what it is.||||1||||1||||||4|
+|3C. State logical assumptions being used.||||1||1||||||||3|
+|3F. Base arguments on concrete referents such as objects, drawings, diagrams, and actions.||||1||1||||||||3|
+|3G. At later grades, determine conditions under which an argument does and does not apply. (For example, area increases with perimeter for squares, but not for all plane figures.)||||1||1||||||||3|
+
+---
 layout: end
 ---
+
 
 
 
