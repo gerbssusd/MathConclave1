@@ -242,8 +242,21 @@ class: scrollable fancy-table
 |1P. Summarize, represent, and interpret data on a single count or measurement variable.||1|||||2|
 
 ---
+class: fancy-table
+---
+
+|Target|0-1|0-2|1|1-2|1-3|2|DOK|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2A. Apply mathematics to solve well-posed problems arising in everyday life, society, and the||1||||||1||||||3|
+|2B. Select and use appropriate tools strategically.||1||||||1||||||3|
+|2C. Interpret results in the context of a situation.||1||||||1||||||3|
+|2D. Identify important quantities in a practical situation and map their relationships (e.g., using diagrams, two-way tables, graphs, flow charts, or formulas).||1||||||1||||||3|
+
+---
+
 layout: end
 ---
+
 
 
 
