@@ -290,6 +290,7 @@ class: scrollable fancy-table
 ---
 layout: image-right
 image: /2A1a.jpg
+backgroundSize: 30em 50%
 ---
 
 # Full Statement
@@ -326,6 +327,7 @@ How much of the antibiotic, in milligrams, is in Susan’s body immediately afte
 ---
 layout: end
 ---
+
 
 
 
