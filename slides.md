@@ -305,6 +305,39 @@ What is the capacity, in quarts, of this pan? Round your answer to the nearest t
 # Rubric
 (1 point) The student correctly determines that the capacity in quarts of the pan (e.g., accept 2.66 – 2.7).
 
+<!-- 2A.1a -->
+
+---
+
+Full Statement
+The $1000 prize for a lottery is to be divided evenly among the winners. Initially, there are x winners.
+However, one more winner comes forward, causing each winner to receive $50 less.
+
+Enter an equation that represents the situation and can be used to solve for x, the initial number of winners.
+Enter your equation in the response box.
+
+Rubric
+(1 point) The student creates a correct equation (e.g., 
+1000
+x
+−
+50
+=
+1000
+x
++
+1
+x
+1000
+​
+ −50= 
+x+1
+1000
+​
+  ).
+
+<!-- 2A.2a -->
+
 ---
 
 # Full Statement
@@ -320,6 +353,7 @@ Susan has an ear infection. Her doctor prescribes an antibiotic. The doctor tell
 ---
 layout: end
 ---
+
 
 
 
