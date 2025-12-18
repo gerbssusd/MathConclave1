@@ -288,18 +288,37 @@ class: scrollable fancy-table
 |3G. At later grades, determine conditions under which an argument does and does not apply. (For example, area increases with perimeter for squares, but not for all plane figures.)||||1||1||||||||3|
 
 ---
+Class: image-right
+image: /2A1a
+---
 
+# Full Statement
+A company that makes rectangular baking pans labels each pan with the dimensions, in inches, and the capacity in quarts. A company employee needs to label a rectangular pan with dimensions 7 inches by 11 inches by 2 inches.
+
+A pan is shown with a length of 11 inches, a width of 7 inches and a height of 2 inches.
+
+1 quart = 57.75 cubic inches
+
+What is the capacity, in quarts, of this pan? Round your answer to the nearest tenth.
+
+# Rubric
+(1 point) The student correctly determines that the capacity in quarts of the pan (e.g., accept 2.66 – 2.7).
+
+---
+
+# Full Statement
 Susan has an ear infection. Her doctor prescribes an antibiotic. The doctor tells Susan to take a 250-milligram dose of the antibiotic every 12 hours for the next 10 days.
 
 Susan finds out that 4% of the antibiotic is still in her body after 12 hours.
 Assume that each dose is exactly 250 milligrams and that Susan takes one dose every 12 hours.
-Part A
+
+## Part A
 How much of the antibiotic, in milligrams, is in Susan’s body immediately after taking the 2nd dose? Enter your answer in the first response box.
 
-Part B
+## Part B
 How much of the antibiotic, in milligrams, is in Susan’s body immediately after taking the 10th dose? Enter your answer in the second response box.
 
-Rubric
+# Rubric
 (2 points) The student enters the correct amount of antibiotic in Susan’s body for Part A and B (e.g., 260, 260.4167). Note: An acceptable range for Part B is 260.4-260.422.
 
 (1 point) The student enters the correct amount for Part A or Part B, but not both.
@@ -307,6 +326,7 @@ Rubric
 ---
 layout: end
 ---
+
 
 
 
