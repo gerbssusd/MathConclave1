@@ -309,20 +309,20 @@ What is the capacity, in quarts, of this pan? Round your answer to the nearest t
 
 # Full Statement
 Susan has an ear infection. Her doctor prescribes an antibiotic. The doctor tells Susan to take a 250-milligram dose of the antibiotic every 12 hours for the next 10 days.
-
-Susan finds out that 4% of the antibiotic is still in her body after 12 hours.
-Assume that each dose is exactly 250 milligrams and that Susan takes one dose every 12 hours.
-
-## Part A
+- Susan finds out that 4% of the antibiotic is still in her body after 12 hours.
+- Assume that each dose is exactly 250 milligrams and that Susan takes one dose every 12 hours.
+*Part A*
 How much of the antibiotic, in milligrams, is in Susan’s body immediately after taking the 2nd dose? Enter your answer in the first response box.
-## Part B
+*Part B*
 How much of the antibiotic, in milligrams, is in Susan’s body immediately after taking the 10th dose? Enter your answer in the second response box.
 # Rubric
 (2 points) The student enters the correct amount of antibiotic in Susan’s body for Part A and B (e.g., 260, 260.4167). Note: An acceptable range for Part B is 260.4-260.422. (1 point) The student enters the correct amount for Part A or Part B, but not both.
 
+<!-- 2A.4a -->
 ---
 layout: end
 ---
+
 
 
 
