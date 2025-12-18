@@ -315,18 +315,15 @@ Assume that each dose is exactly 250 milligrams and that Susan takes one dose ev
 
 ## Part A
 How much of the antibiotic, in milligrams, is in Susan’s body immediately after taking the 2nd dose? Enter your answer in the first response box.
-
 ## Part B
 How much of the antibiotic, in milligrams, is in Susan’s body immediately after taking the 10th dose? Enter your answer in the second response box.
-
 # Rubric
-(2 points) The student enters the correct amount of antibiotic in Susan’s body for Part A and B (e.g., 260, 260.4167). Note: An acceptable range for Part B is 260.4-260.422.
-
-(1 point) The student enters the correct amount for Part A or Part B, but not both.
+(2 points) The student enters the correct amount of antibiotic in Susan’s body for Part A and B (e.g., 260, 260.4167). Note: An acceptable range for Part B is 260.4-260.422. (1 point) The student enters the correct amount for Part A or Part B, but not both.
 
 ---
 layout: end
 ---
+
 
 
 
