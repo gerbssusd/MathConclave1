@@ -288,7 +288,7 @@ class: scrollable fancy-table
 |3G. At later grades, determine conditions under which an argument does and does not apply. (For example, area increases with perimeter for squares, but not for all plane figures.)||||1||1||||||||3|
 
 ---
-Class: image-right
+layout: image-right
 image: /2A1a.jpg
 ---
 
@@ -326,6 +326,7 @@ How much of the antibiotic, in milligrams, is in Susan’s body immediately afte
 ---
 layout: end
 ---
+
 
 
 
