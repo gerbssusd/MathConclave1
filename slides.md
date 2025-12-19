@@ -318,23 +318,7 @@ Enter your equation in the response box.
 
 # Rubric
 (1 point) The student creates a correct equation (e.g., 
-1000
-x
-−
-50
-=
-1000
-x
-+
-1
-x
-1000
-​
- −50= 
-x+1
-1000
-​
-  ).
+$ 1000 / x -50=1000/z+1 $ 
 
 <!-- 2A.2a -->
 
@@ -353,6 +337,7 @@ Susan has an ear infection. Her doctor prescribes an antibiotic. The doctor tell
 ---
 layout: end
 ---
+
 
 
 
