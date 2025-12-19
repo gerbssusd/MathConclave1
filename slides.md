@@ -318,7 +318,7 @@ Enter your equation in the response box.
 
 # Rubric
 (1 point) The student creates a correct equation (e.g., 
-$1000 x-50=\frac {1000} {z+1}$ 
+$\frac {1000} {x}-50=\frac {1000} {z+1}$ 
 
 <!-- 2A.2a -->
 
@@ -337,6 +337,7 @@ Susan has an ear infection. Her doctor prescribes an antibiotic. The doctor tell
 ---
 layout: end
 ---
+
 
 
 
