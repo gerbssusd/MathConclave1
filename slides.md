@@ -210,7 +210,7 @@ class: scrollable
 
 ---
 layout: image-right
-image: /image.png
+image: /ma1.jpg
 ---
 
 ## Math Reasoning?
@@ -386,6 +386,7 @@ Enter the ordered pair that corresponds to the center of the second circle.
 ---
 layout: end
 ---
+
 
 
 
