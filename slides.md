@@ -370,8 +370,21 @@ Two Tanks are shown. Tank A is a rectangular prism with a length of 8 meters, a 
 (1 point). The student enters the correct radius in the response box (5).
 
 ---
+
+# Full Statement
+A circle with center (6, 7) includes the point (1, 4). A second circle also include the point (1, 4), and contains the same area but has a different center.
+
+Enter the ordered pair that corresponds to the center of the second circle.
+
+(  ,  )
+
+# Rubric
+(1 point) The student correctly enters the ordered pair in the response box [(−4, 1)].
+
+---
 layout: end
 ---
+
 
 
 
