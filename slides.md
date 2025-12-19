@@ -318,10 +318,25 @@ Enter your equation in the response box.
 
 # Rubric
 (1 point) The student creates a correct equation (e.g., 
-$\frac {1000} {x}-50=\frac {1000} {z+1}$ 
+$\frac {1000} {x}-50=\frac {1000} {z+1}$ )
 
 <!-- 2A.2a -->
 
+---
+
+# Full Statement
+A restaurant serves a vegetarian and a chicken lunch special each day. Each vegetarian special is the same price.
+
+Each chicken special is the same price. However, the price of the vegetarian special is different from the price of the chicken special.
+
+On Thursday, the restaurant collected $467 selling 21 vegetarian specials and 40 chicken specials.
+On Friday, the restaurant collected $484 selling 28 vegetarian specials and 36 chicken specials.
+Enter the cost, in dollars, of the vegetarian lunch special.
+
+# Rubric
+(1 point) The student correctly determines the cost of the vegetarian special (7).
+
+<!-- 2A.3a -->
 ---
 
 # Full Statement
@@ -335,8 +350,28 @@ Susan has an ear infection. Her doctor prescribes an antibiotic. The doctor tell
 
 <!-- 2A.4a -->
 ---
+layout: image-right
+image: /2A5a.png
+---
+
+# Full Statement
+Two water tanks are shown. Tank A is a rectangular prism and Tank B is a cylinder. The tanks are not drawn to scale.
+
+- Tank A is filled with water to the 10-meter mark.
+
+- Click Tank A to change the water level. The volume of water that leaves Tank A is transferred to Tank B, and then the height of the water in Tank B is shown.
+
+Find the radius of Tank B, rounded to the nearest meter. Enter Your answer in the response box.
+
+Two Tanks are shown. Tank A is a rectangular prism with a length of 8 meters, a width of 8 meters, and a height of 10 meters. Tank A is completely full of water. Tank B is an empty cylinder with a height of 10 meters and a radius of blank meters. Numbers 0 through 9 are listed as choices for the blank.
+
+# Rubric
+(1 point). The student enters the correct radius in the response box (5).
+
+---
 layout: end
 ---
+
 
 
 
