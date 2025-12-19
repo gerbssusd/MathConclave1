@@ -360,7 +360,7 @@ Two water tanks are shown. Tank A is a rectangular prism and Tank B is a cylinde
 
 - Tank A is filled with water to the 10-meter mark.
 
-- Click Tank A to change the water level. The volume of water that leaves Tank A is transferred to Tank B, and then the height of the water in Tank B is shown.
+- Half of the water from Tank A is poured into Tank B. The water level on Tank A drops to 5 meters and the water level on Tank B becomes 4 meters.
 
 Find the radius of Tank B, rounded to the nearest meter. Enter Your answer in the response box.
 
@@ -369,6 +369,7 @@ Two Tanks are shown. Tank A is a rectangular prism with a length of 8 meters, a 
 # Rubric
 (1 point). The student enters the correct radius in the response box (5).
 
+<!-- 2A.5a -->
 ---
 
 # Full Statement
@@ -381,9 +382,11 @@ Enter the ordered pair that corresponds to the center of the second circle.
 # Rubric
 (1 point) The student correctly enters the ordered pair in the response box [(−4, 1)].
 
+<!-- 2A.6a -->
 ---
 layout: end
 ---
+
 
 
 
