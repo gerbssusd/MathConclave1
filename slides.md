@@ -352,6 +352,7 @@ Susan has an ear infection. Her doctor prescribes an antibiotic. The doctor tell
 ---
 layout: image-right
 image: /2A5a.png
+backgroundSize: 30em 50%
 ---
 
 # Full Statement
@@ -371,6 +372,7 @@ Two Tanks are shown. Tank A is a rectangular prism with a length of 8 meters, a 
 ---
 layout: end
 ---
+
 
 
 
