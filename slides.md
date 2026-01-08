@@ -350,9 +350,7 @@ Susan has an ear infection. Her doctor prescribes an antibiotic. The doctor tell
 
 <!-- 2A.4a -->
 ---
-layout: image-right
-image: /2A5a.png
-backgroundSize: 30em 50%
+layout: two-cols
 ---
 
 # Full Statement
@@ -364,10 +362,13 @@ Two water tanks are shown. Tank A is a rectangular prism and Tank B is a cylinde
 
 Find the radius of Tank B, rounded to the nearest meter. Enter Your answer in the response box.
 
-Two Tanks are shown. Tank A is a rectangular prism with a length of 8 meters, a width of 8 meters, and a height of 10 meters. Tank A is completely full of water. Tank B is an empty cylinder with a height of 10 meters and a radius of blank meters. Numbers 0 through 9 are listed as choices for the blank.
 
 # Rubric
 (1 point). The student enters the correct radius in the response box (5).
+
+::Right::
+
+<img v-after /2A.5a.png /> 
 
 <!-- 2A.5a -->
 ---
@@ -386,6 +387,7 @@ Enter the ordered pair that corresponds to the center of the second circle.
 ---
 layout: end
 ---
+
 
 
 
