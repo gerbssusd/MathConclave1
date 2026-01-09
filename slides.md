@@ -367,7 +367,7 @@ Find the radius of Tank B, rounded to the nearest meter. Enter Your answer in th
 # Rubric
 (1 point). The student enters the correct radius in the response box (5).
 
-::Right::
+::right::
 
 <div><img src="/image.png" alt="Styled Image" /></div>
 
@@ -378,7 +378,7 @@ layout: two-cols
 
 <div><img src="/image.png" alt="Styled Image" /></div>
 
-::Right::
+::right::
 
 ---
 
@@ -396,6 +396,7 @@ Enter the ordered pair that corresponds to the center of the second circle.
 ---
 layout: end
 ---
+
 
 
 
