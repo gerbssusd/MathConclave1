@@ -369,7 +369,7 @@ Find the radius of Tank B, rounded to the nearest meter. Enter Your answer in th
 
 ::right::
 
-<img v-click.hide src="/2A5a.png" alt="Styled Image" /><img v-click src="/2A5a-b.png" alt="Styled Image" />
+<img v-click.hide src="/2A5a.png" alt="Styled Image" class="w-full h-auto object-cover"/><img v-click src="/2A5a-b.png" alt="Styled Image" class="w-full h-auto object-cover"/>
 
 <!-- 2A.5a -->
 ---
@@ -388,6 +388,7 @@ Enter the ordered pair that corresponds to the center of the second circle.
 ---
 layout: end
 ---
+
 
 
 
