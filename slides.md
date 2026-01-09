@@ -349,6 +349,7 @@ Susan has an ear infection. Her doctor prescribes an antibiotic. The doctor tell
 (2 points) The student enters the correct amount of antibiotic in Susan’s body for Part A and B (e.g., 260, 260.4167). Note: An acceptable range for Part B is 260.4-260.422. (1 point) The student enters the correct amount for Part A or Part B, but not both.
 
 <!-- 2A.4a -->
+
 ---
 layout: two-cols
 ---
@@ -391,6 +392,7 @@ Enter the ordered pair that corresponds to the center of the second circle.
 ---
 layout: end
 ---
+
 
 
 
