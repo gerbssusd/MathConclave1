@@ -368,10 +368,11 @@ Find the radius of Tank B, rounded to the nearest meter. Enter Your answer in th
 
 ::Right::
 
-<img src="/2A5a.png" alt="Styled Image"/>
+<img src="/2A5a.png" alt="Styled Image" />
 
 <!-- 2A.5a -->
 ---
+
 
 # Full Statement
 A circle with center (6, 7) includes the point (1, 4). A second circle also include the point (1, 4), and contains the same area but has a different center.
@@ -387,6 +388,7 @@ Enter the ordered pair that corresponds to the center of the second circle.
 ---
 layout: end
 ---
+
 
 
 
