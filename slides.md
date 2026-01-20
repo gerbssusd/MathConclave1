@@ -291,13 +291,12 @@ class: scrollable fancy-table
 layout: two-cols
 ---
 
-# Next Meeting and subsequent Meetings
+# Next Meeting and Subsequent Meetings
 
 ::right::
 
 ```mermaid {theme: redux, look: neo}
   flowchart TB
-    flowchart TB
     s3["All Subsequent Meetings"]
     n3["Present Lesson"]
     nz["nz"]
@@ -424,6 +423,7 @@ Enter the ordered pair that corresponds to the center of the second circle.
 ---
 layout: end
 ---
+
 
 
 
