@@ -288,6 +288,41 @@ class: scrollable fancy-table
 |3G. At later grades, determine conditions under which an argument does and does not apply. (For example, area increases with perimeter for squares, but not for all plane figures.)||||1||1||||||||3|
 
 ---
+layout: two-cols
+---
+
+# Next Meeting and subsequent Meetings
+
+::right::
+
+```mermaid {theme: redux, look: neo}
+  flowchart TB
+    flowchart TB
+    s3["All Subsequent Meetings"]
+    n3["Present Lesson"]
+    nz["nz"]
+    n4["Critique"]
+    n5["compare"]
+    ny["ny"]
+    n6["Evaluate Conection to Blueprint"]
+    n7["ID next Major Power Standard Focus"]
+
+    n3 --- nz
+    nz --> n4
+    nz --> n5
+    n4 --- ny
+    n5 --- ny
+    ny --> n6
+    n6 --> n7
+    n7 --> n3
+
+ 
+    nz@{ shape: f-circ }
+    ny@{ shape: f-circ }
+    style s3 stroke:none
+```
+
+---
 layout: image-right
 image: /2A1a.jpg
 backgroundSize: 30em 50%
@@ -389,6 +424,7 @@ Enter the ordered pair that corresponds to the center of the second circle.
 ---
 layout: end
 ---
+
 
 
 
