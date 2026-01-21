@@ -10,7 +10,6 @@ transition: fade-out
 mdc: true
 ts: true
 favicon: /Maxfav.png
-download: true
 ---
 
 ## Math Conclave One 
@@ -325,6 +324,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
