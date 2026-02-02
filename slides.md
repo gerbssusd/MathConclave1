@@ -24,6 +24,10 @@ Welcome to Math Conclave!
 <!-- Slide 1 -->
 
 ---
+
+<Youtube id="Rxzx5x7TY5M" />
+
+---
 layout: two-cols-header
 ---
 
@@ -325,6 +329,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
