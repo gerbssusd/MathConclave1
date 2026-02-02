@@ -24,10 +24,10 @@ Welcome to Math Conclave!
 <!-- Slide 1 -->
 
 ---
-layout: full
+layout: default
 ---
 
-<Youtube id="Rxzx5x7TY5M" />
+<Youtube id="Rxzx5x7TY5M" width="850"/>
 
 ---
 layout: two-cols-header
@@ -331,6 +331,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
