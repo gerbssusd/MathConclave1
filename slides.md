@@ -27,7 +27,7 @@ Welcome to Math Conclave!
 layout: full
 ---
 
-<Youtube id="Rxzx5x7TY5M" width="800" height="600" />
+<Youtube id="Rxzx5x7TY5M" width="900" height="500" />
 
 ---
 layout: two-cols-header
@@ -331,6 +331,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
