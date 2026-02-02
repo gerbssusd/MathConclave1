@@ -263,7 +263,7 @@ class: fancy-table
 class: scrollable fancy-table
 ---
 
-# 4. Moldeling and Data Analysis
+# 4. Modeling and Data Analysis
 
 |Target|0-1|0-2|1|1-2|1-3|2|DOK|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -329,6 +329,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
