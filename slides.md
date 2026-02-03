@@ -31,6 +31,7 @@ layout: center
 
 ---
 layout: two-cols-header
+class: center
 ---
 
 # Dichotomy of Control
@@ -347,6 +348,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
