@@ -43,7 +43,6 @@ layout: two-cols-header
 
 ::right::
 
-<div 
 # No Control
 
 ---
@@ -348,6 +347,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
