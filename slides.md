@@ -40,7 +40,11 @@ class: text-center
 
 ::left::
 
+<div> "bg-blue-500">
+  
 # Control
+
+</div>
 
 ::right::
 
@@ -348,6 +352,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
