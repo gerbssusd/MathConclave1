@@ -34,6 +34,12 @@ layout: center
 <v-drag text-3xl>
   BOOOOO!
 </v-drag>
+<v-drag text-3xl>
+  BOOOO2
+</v-drag>
+<v-drag text-3xl>
+  BOOOOO3
+</v-drag>
     
 ---
 layout: two-cols-header
@@ -337,6 +343,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
