@@ -35,15 +35,10 @@ dragPos:
   foo1:
   foo2:
 ---
-
-<v-drag pos="foo" text-3xl>
-  <div>Boo</div>
-  <div>Boo2</div>
-</v-drag>
-
-<v-drag pos="foo2" text-3xl>
-  <div>boo3</div>
-</v-drag>
+| No Control | Issue | Control |
+|:---:|:---:|:---:|
+| |<v-drag pos="foo" text-3xl><div>Boo</div></v-drag>| |
+| |<v-drag pos="foo2" text-3xl><div>boo3</div></v-drag>| |
 
 ---
 layout: two-cols-header
@@ -347,6 +342,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
