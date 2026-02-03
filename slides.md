@@ -30,12 +30,8 @@ layout: center
 <Youtube id="cWGZ2mOivBQ" width="850" height="450" />
 
 ---
-dragPos:
-  foo:
----
 
-<v-drag pos="foo" text-3xl>
-  <carbon:arrow-up />
+<v-drag text-3xl>
   BOOOOO!
 </v-drag>
     
@@ -341,6 +337,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
