@@ -31,13 +31,10 @@ layout: center
 
 ---
 dragPos:
-  foo: Left,Top,Width,Height,Rotate
+  square: Left,Top,Width,Height,Rotate
 ---
 
-<v-drag pos="foo" text-3xl>
-  <div class="i-carbon:arrow-up" />
-  Use the `v-drag` component to have a draggable container!
-</v-drag>
+<img v-drag="'square'" src="https://sli.dev/logo.png">
     
 ---
 layout: two-cols-header
@@ -341,6 +338,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
