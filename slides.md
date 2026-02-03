@@ -34,7 +34,7 @@ class: fancy-table
 ---
 
 | No Control | Control |
-|:---:|:---:|:---:|
+|:---:|:---:|
 |||
 
 ---
@@ -339,6 +339,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
