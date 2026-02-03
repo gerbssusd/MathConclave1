@@ -30,17 +30,27 @@ layout: center
 <Youtube id="cWGZ2mOivBQ" width="850" height="450" />
 
 ---
+dragPos:
+  foo:
+  foo1:
+  foo2:
+---
 
-<v-drag text-3xl>
-  BOOOOO!
+<v-drag pos="foo" text-3xl>
+  <carbon:arrow-up />
+ Boo
 </v-drag>
-<v-drag text-3xl>
-  BOOOO2
+
+<v-drag pos="foo1" text-3xl>
+  <carbon:arrow-up />
+ Boo1
 </v-drag>
-<v-drag text-3xl>
-  BOOOOO3
+
+<v-drag pos="foo2" text-3xl>
+  <carbon:arrow-up />
+ Boo2
 </v-drag>
-    
+
 ---
 layout: two-cols-header
 ---
@@ -343,6 +353,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
