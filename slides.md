@@ -36,7 +36,7 @@ dragPos:
 
 <v-drag pos="foo" text-3xl>
   <carbon:arrow-up />
-  Use the `v-drag` component to have a draggable container!
+  Use the v-drag component to have a draggable container!
 </v-drag>
     
 ---
@@ -341,6 +341,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
