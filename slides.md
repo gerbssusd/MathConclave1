@@ -37,7 +37,7 @@ layout: two-cols-header
 
 ## Teacher Edition
 
-::left;;
+::left::
 
 # Control
 
@@ -347,6 +347,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
