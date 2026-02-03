@@ -31,7 +31,7 @@ layout: center
 
 ---
 dragPos:
-  foo: Left,Top,Width,Height,Rotate
+  foo:
 ---
 
 <v-drag pos="foo" text-3xl>
@@ -341,6 +341,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
