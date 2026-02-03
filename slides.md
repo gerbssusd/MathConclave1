@@ -30,12 +30,14 @@ layout: center
 <Youtube id="cWGZ2mOivBQ" width="850" height="450" />
 
 ---
-class: fancy-table
+layout: two-cols
 ---
 
-| No Control | Control |
-|:---:|:---:|
-|||
+# Control
+
+::right::
+
+# No Control
 
 ---
 layout: two-cols-header
@@ -339,6 +341,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
