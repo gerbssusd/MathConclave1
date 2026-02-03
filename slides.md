@@ -38,8 +38,8 @@ dragPos:
 
 | No Control | Issue | Control |
 |:---:|:---:|:---:|
-| |<v-drag pos="foo" text-3xl><div>Boo</div></v-drag>| |
-| |<v-drag pos="foo2" text-3xl><div>boo3</div></v-drag>| |
+| |<v-drag pos="foo" text-3xl>Boo</v-drag>| |
+| |<v-drag pos="foo2" text-3xl>boo3</v-drag>| |
 
 ---
 layout: two-cols-header
@@ -343,6 +343,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
