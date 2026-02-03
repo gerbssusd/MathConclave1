@@ -33,10 +33,9 @@ layout: center
 class: fancy-table
 ---
 
-| No Control | Issue | Control |
+| No Control | Control |
 |:---:|:---:|:---:|
-||||
-||||
+|||
 
 ---
 layout: two-cols-header
@@ -340,6 +339,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
