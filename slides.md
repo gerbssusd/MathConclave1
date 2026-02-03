@@ -37,18 +37,15 @@ dragPos:
 ---
 
 <v-drag pos="foo" text-3xl>
-  <carbon:arrow-up />
- Boo
+  <div>Boo</div>
 </v-drag>
 
 <v-drag pos="foo1" text-3xl>
-  <carbon:arrow-up />
- Boo1
+  <div>Boo2</div>
 </v-drag>
 
 <v-drag pos="foo2" text-3xl>
-  <carbon:arrow-up />
- Boo2
+  <div>boo3</div>
 </v-drag>
 
 ---
@@ -353,6 +350,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
