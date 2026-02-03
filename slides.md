@@ -31,7 +31,7 @@ layout: center
 
 ---
 dragPos:
-  square: Left,Top,Width,Height,Rotate
+  square: 20,40,70,70,180
 ---
 
 <img v-drag="'square'" src="https://sli.dev/logo.png">
@@ -338,6 +338,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
