@@ -38,9 +38,6 @@ dragPos:
 
 <v-drag pos="foo" text-3xl>
   <div>Boo</div>
-</v-drag>
-
-<v-drag pos="foo1" text-3xl>
   <div>Boo2</div>
 </v-drag>
 
@@ -350,6 +347,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
