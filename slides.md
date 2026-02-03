@@ -30,13 +30,20 @@ layout: center
 <Youtube id="cWGZ2mOivBQ" width="850" height="450" />
 
 ---
-layout: two-cols
+layout: two-cols-header
 ---
+
+# Dichotomy of Control
+
+## Teacher Edition
+
+::left;;
 
 # Control
 
 ::right::
 
+<div 
 # No Control
 
 ---
@@ -341,6 +348,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
