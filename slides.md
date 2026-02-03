@@ -30,6 +30,16 @@ layout: center
 <Youtube id="cWGZ2mOivBQ" width="850" height="450" />
 
 ---
+dragPos:
+  foo: Left,Top,Width,Height,Rotate
+---
+
+<v-drag pos="foo" text-3xl>
+  <div class="i-carbon:arrow-up" />
+  Use the `v-drag` component to have a draggable container!
+</v-drag>
+    
+---
 layout: two-cols-header
 ---
 
@@ -331,6 +341,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
