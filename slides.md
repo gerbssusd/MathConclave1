@@ -30,11 +30,6 @@ layout: center
 <Youtube id="cWGZ2mOivBQ" width="850" height="450" />
 
 ---
-dragPos:
-  foo:
-  foo1:
-  foo2:
----
 
 | No Control | Issue | Control |
 |:---:|:---:|:---:|
@@ -343,6 +338,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
