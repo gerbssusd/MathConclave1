@@ -30,6 +30,8 @@ layout: center
 <Youtube id="cWGZ2mOivBQ" width="850" height="450" />
 
 ---
+class: fancy-table
+---
 
 | No Control | Issue | Control |
 |:---:|:---:|:---:|
@@ -338,6 +340,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
