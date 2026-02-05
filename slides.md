@@ -329,7 +329,7 @@ layout: two-cols
     n3["Present Lesson"]
     nz["nz"]
     n4["Critique"]
-    n5["compare"]
+    n5["Compare"]
     ny["ny"]
     n6["Evaluate Conection to Blueprint"]
     n7["ID next Major Power Standard Focus"]
@@ -352,6 +352,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
