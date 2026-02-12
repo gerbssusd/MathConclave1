@@ -40,7 +40,7 @@ class: text-center
 ***
 ::left::
 
-<div class="h-screen bg-blue-200">
+<div class="h-full bg-blue-200">
   
 # Control
 
@@ -352,6 +352,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
