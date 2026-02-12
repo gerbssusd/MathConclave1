@@ -31,6 +31,7 @@ layout: center
 
 ---
 layout: two-cols-header
+class: text-center
 ---
 
 # Dichotomy of Control
@@ -39,7 +40,7 @@ layout: two-cols-header
 
 ::left::
 
-<div class="h-screen bg-blue-200 text-center">
+<div class="h-screen bg-blue-200">
   
 # Control
 
@@ -351,6 +352,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
