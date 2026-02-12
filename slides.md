@@ -39,7 +39,7 @@ layout: two-cols-header
 
 ::left::
 
-<div class="h-full bg-blue-200">
+<div class="h-full bg-blue-200 text-center">
   
 # Control
 
@@ -351,6 +351,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
