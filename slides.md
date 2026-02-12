@@ -37,7 +37,7 @@ class: text-center
 # Dichotomy of Control
 
 ## Teacher Edition
-
+***
 ::left::
 
 <div class="h-screen bg-blue-200">
@@ -352,6 +352,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
