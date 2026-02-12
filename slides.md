@@ -38,9 +38,10 @@ class: text-center
 
 ## Teacher Edition
 ***
+<br>
 ::left::
 
-<div class="h-full bg-blue-200">
+<div class="h-screen bg-blue-200">
   
 # Control
 
@@ -352,6 +353,7 @@ layout: two-cols
 ---
 layout: end
 ---
+
 
 
 
