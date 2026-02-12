@@ -351,13 +351,13 @@ layout: two-cols
 ```
 
 ---
-layout: default
+layout: statement
 ---
 
 # Power Standards
 
 ---
-layout: default
+layout: center
 ---
 
 # Featured standard for next time?
@@ -365,6 +365,7 @@ layout: default
 ---
 layout: end
 ---
+
 
 
 
