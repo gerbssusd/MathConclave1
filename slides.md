@@ -351,8 +351,21 @@ layout: two-cols
 ```
 
 ---
+layout: default
+---
+
+# Power Standards
+
+---
+layout: default
+---
+
+# Featured standard for next time?
+
+---
 layout: end
 ---
+
 
 
 
