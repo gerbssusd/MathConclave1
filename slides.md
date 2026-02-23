@@ -317,6 +317,14 @@ class: scrollable fancy-table
 |3G. At later grades, determine conditions under which an argument does and does not apply. (For example, area increases with perimeter for squares, but not for all plane figures.)||||1||1||||||||3|
 
 ---
+layout: center
+---
+
+# [Smarter Balanced Content Explorer]([https://sli.dev](https://contentexplorer.smarterbalanced.org/explore?show=true&step=claim))
+
+## https://contentexplorer.smarterbalanced.org
+
+---
 layout: two-cols
 ---
 
@@ -365,6 +373,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
