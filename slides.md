@@ -320,7 +320,7 @@ class: scrollable fancy-table
 layout: center
 ---
 
-# [Smarter Balanced Content Explorer](https://contentexplorer.smarterbalanced.org/explore?show=true&step=claim))
+# [Smarter Balanced Content Explorer](https://contentexplorer.smarterbalanced.org/explore?show=true&step=claim)
 
 ## https://contentexplorer.smarterbalanced.org
 
@@ -373,6 +373,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
